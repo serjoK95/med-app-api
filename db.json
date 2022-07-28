@@ -4,44 +4,46 @@
     "name": "Serkan Koch",
     "username": "sekoch"
   },
-  "phases": [
-    {
-      "id": 1,
-      "name": "Morning Routine - Get your day going with a dose of breathing techniques, stretching, etc.",
-      "link": "",
-      "imageUrl": "https://moderndiplomacy.eu/wp-content/uploads/2022/01/morning-routine-1280x720.jpg",
-      "phasesMeta": {
-        "name": "Daily Phase",
-        "phasesimageUrl": "https://img.freepik.com/free-vector/organic-flat-man-meditating_23-2148919209.jpg?w=2000",
-        "usersSubscribed": 734
+  "phasesSection": {
+    "phases": [
+      {
+        "id": 1,
+        "name": "Morning Routine - Get your day going with a dose of breathing techniques, stretching, etc.",
+        "link": "",
+        "imageUrl": "https://moderndiplomacy.eu/wp-content/uploads/2022/01/morning-routine-1280x720.jpg",
+        "phasesMeta": {
+          "name": "Daily Phase",
+          "phasesimageUrl": "https://img.freepik.com/free-vector/organic-flat-man-meditating_23-2148919209.jpg?w=2000",
+          "usersSubscribed": 734
+        },
+        "numberOfViews": 6435
       },
-      "numberOfViews": 6435
-    },
-    {
-      "id": 2,
-      "name": "Work",
-      "link": "",
-      "imageUrl": "https://images.indianexpress.com/2020/07/survey-work-from-home_759_pixabay.jpg",
-      "phasesMeta": {
-        "name": "Daily Phase",
-        "phasesimageUrl": "https://img.freepik.com/free-vector/organic-flat-man-meditating_23-2148919209.jpg?w=2000",
-        "usersSubscribed": 465
+      {
+        "id": 2,
+        "name": "Work",
+        "link": "",
+        "imageUrl": "https://images.indianexpress.com/2020/07/survey-work-from-home_759_pixabay.jpg",
+        "phasesMeta": {
+          "name": "Daily Phase",
+          "phasesimageUrl": "https://img.freepik.com/free-vector/organic-flat-man-meditating_23-2148919209.jpg?w=2000",
+          "usersSubscribed": 465
+        },
+        "numberOfViews": 5432
       },
-      "numberOfViews": 5432
-    },
-    {
-      "id": 3,
-      "name": "Sleep",
-      "link": "",
-      "imageUrl": "https://sph.umich.edu/pursuit/2020posts/2020images/Sleep101.jpg",
-      "phasesMeta": {
-        "name": "Daily Phase",
-        "phasesimageUrl": "https://sph.umich.edu/pursuit/2020posts/2020images/Sleep101.jpg",
-        "usersSubscribed": 1432
-      },
-      "numberOfViews": 12435
-    }
-  ],
+      {
+        "id": 3,
+        "name": "Sleep",
+        "link": "",
+        "imageUrl": "https://sph.umich.edu/pursuit/2020posts/2020images/Sleep101.jpg",
+        "phasesMeta": {
+          "name": "Daily Phase",
+          "phasesimageUrl": "https://sph.umich.edu/pursuit/2020posts/2020images/Sleep101.jpg",
+          "usersSubscribed": 1432
+        },
+        "numberOfViews": 12435
+      }
+    ]
+  },
   "phaseDetail": [
     {
       "breathing": [
