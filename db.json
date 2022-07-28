@@ -44,93 +44,97 @@
       }
     ]
   },
-  "phaseDetail": [
-    {
-      "breathing": [
-        {
-          "id": "0",
-          "name": "Slow Tempo Nose Inhaling"
-        },
-        {
-          "id": "1",
-          "name": "Breath Holding"
-        },
-        {
-          "id": "2",
-          "name": "Pressured Breath Releasing"
-        }
-      ],
-      "id": 1
-    },
-    {
-      "work": [
-        {
-          "id": "3",
-          "name": "Concentration Workout"
-        },
-        {
-          "id": "4",
-          "name": "Stress Relieve"
-        },
-        {
-          "id": "5",
-          "name": "Physical Workout"
-        }
-      ]
-    },
-    {
-      "sleep": [
-        {
-          "id": "6",
-          "name": "Relaxing Landscape Music"
-        }, 
-        {
-          "id": "7",
-          "name": "Physical Workout"
-        },
-        {
-          "id": "8",
-          "name": "Delta Wave Vibrations"
-        }
-      ]
-    }
-  ],
-  "thematics": [
-    {
-      "id": 1,
-      "name": "Music",
-      "link": "",
-      "imageUrl": "https://i.pinimg.com/originals/60/53/0c/60530cce8c49859b38b647fa54660827.png"
-    },
-    {
-      "id": 2,
-      "name": "Work",
-      "link": "",
-      "imageUrl": "https://www.pngitem.com/pimgs/m/208-2088785_table-work-cliparts-16-buy-clip-art-worker.png"
-    },
-    {
-      "id": 3,
-      "name": "Sleep",
-      "link": "",
-      "imageUrl": "https://media.istockphoto.com/vectors/sleepless-woman-lying-in-bed-and-looking-at-alarm-clock-vector-id1257527453?k=20&m=1257527453&s=612x612&w=0&h=WLMRJykSFhG1X25m4je5rZsS05-xmNscRSDQOTdMtuY="
-    },
-    {
-      "id": 4,
-      "name": "Relaxation",
-      "link": "",
-      "imageUrl": "https://media.istockphoto.com/vectors/young-girl-sitting-in-comfortable-couch-and-and-flipping-through-the-vector-id1073180952?k=20&m=1073180952&s=612x612&w=0&h=2WSfDgp54x4HeVz7zPL48nrrcgU7FfeyEHPSzQQSflM="
-    },
-    {
-      "id": 5,
-      "name": "Motivation",
-      "link": "",
-      "imageUrl": "https://us.123rf.com/450wm/antonshaparenko/antonshaparenko1910/antonshaparenko191000883/132120450-employee-motivation-icon-set-four-elements-in-diferent-styles-from-human-resources-icons-collection-.jpg?ver=6"
-    },
-    {
-      "id": 6,
-      "name": "Meditation",
-      "link": "",
-      "imageUrl": "https://media.istockphoto.com/vectors/woman-meditating-in-nature-and-leaves-concept-illustration-for-yoga-vector-id1139912908?k=20&m=1139912908&s=612x612&w=0&h=ljrtdv9NxmtUBrQ_lDzQGDmSQSnTlOMg6J75WWpDS3s="
-    }
-  ]
+  "phaseDetailsSection": {
+    "phaseDetail": [
+      {
+        "breathing": [
+          {
+            "id": "0",
+            "name": "Slow Tempo Nose Inhaling"
+          },
+          {
+            "id": "1",
+            "name": "Breath Holding"
+          },
+          {
+            "id": "2",
+            "name": "Pressured Breath Releasing"
+          }
+        ],
+        "id": 1
+      },
+      {
+        "work": [
+          {
+            "id": "3",
+            "name": "Concentration Workout"
+          },
+          {
+            "id": "4",
+            "name": "Stress Relieve"
+          },
+          {
+            "id": "5",
+            "name": "Physical Workout"
+          }
+        ]
+      },
+      {
+        "sleep": [
+          {
+            "id": "6",
+            "name": "Relaxing Landscape Music"
+          }, 
+          {
+            "id": "7",
+            "name": "Physical Workout"
+          },
+          {
+            "id": "8",
+            "name": "Delta Wave Vibrations"
+          }
+        ]
+      }
+    ]
+  },
+  "thematicsSection": {
+    "thematics": [
+      {
+        "id": 1,
+        "name": "Music",
+        "link": "",
+        "imageUrl": "https://i.pinimg.com/originals/60/53/0c/60530cce8c49859b38b647fa54660827.png"
+      },
+      {
+        "id": 2,
+        "name": "Work",
+        "link": "",
+        "imageUrl": "https://www.pngitem.com/pimgs/m/208-2088785_table-work-cliparts-16-buy-clip-art-worker.png"
+      },
+      {
+        "id": 3,
+        "name": "Sleep",
+        "link": "",
+        "imageUrl": "https://media.istockphoto.com/vectors/sleepless-woman-lying-in-bed-and-looking-at-alarm-clock-vector-id1257527453?k=20&m=1257527453&s=612x612&w=0&h=WLMRJykSFhG1X25m4je5rZsS05-xmNscRSDQOTdMtuY="
+      },
+      {
+        "id": 4,
+        "name": "Relaxation",
+        "link": "",
+        "imageUrl": "https://media.istockphoto.com/vectors/young-girl-sitting-in-comfortable-couch-and-and-flipping-through-the-vector-id1073180952?k=20&m=1073180952&s=612x612&w=0&h=2WSfDgp54x4HeVz7zPL48nrrcgU7FfeyEHPSzQQSflM="
+      },
+      {
+        "id": 5,
+        "name": "Motivation",
+        "link": "",
+        "imageUrl": "https://us.123rf.com/450wm/antonshaparenko/antonshaparenko1910/antonshaparenko191000883/132120450-employee-motivation-icon-set-four-elements-in-diferent-styles-from-human-resources-icons-collection-.jpg?ver=6"
+      },
+      {
+        "id": 6,
+        "name": "Meditation",
+        "link": "",
+        "imageUrl": "https://media.istockphoto.com/vectors/woman-meditating-in-nature-and-leaves-concept-illustration-for-yoga-vector-id1139912908?k=20&m=1139912908&s=612x612&w=0&h=ljrtdv9NxmtUBrQ_lDzQGDmSQSnTlOMg6J75WWpDS3s="
+      }
+    ]
+  }
 }
