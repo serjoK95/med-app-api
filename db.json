@@ -44,23 +44,25 @@
       }
     ]
   },
-  "breathing": [
-    {
-      "id": "0",
-      "name": "Slow Tempo Nose Inhaling",
-      "imgUrl": "https://miro.medium.com/max/1024/1*wjxycequ4sTCYnvGb-IKCA.jpeg"
-    },
-    {
-      "id": "1",
-      "name": "Breath Holding",
-      "imgUrl": "https://i0.wp.com/post.healthline.com/wp-content/uploads/2020/04/Exhausted_sports_woman-732x549-thumbnail-732x549.jpg?w=756&h=567"
-    },
-    {
-      "id": "2",
-      "name": "Pressured Breath Releasing",
-      "imgUrl": "https://www.wikihow.com/images/thumb/e/e4/Hold-Your-Breath-for-Long-Periods-of-Time-Step-1-Version-3.jpg/v4-460px-Hold-Your-Breath-for-Long-Periods-of-Time-Step-1-Version-3.jpg.webp"
-    }
-  ],
+  "breathingOption": {
+    "breathing": [
+      {
+        "id": "0",
+        "name": "Slow Tempo Nose Inhaling",
+        "imgUrl": "https://miro.medium.com/max/1024/1*wjxycequ4sTCYnvGb-IKCA.jpeg"
+      },
+      {
+        "id": "1",
+        "name": "Breath Holding",
+        "imgUrl": "https://i0.wp.com/post.healthline.com/wp-content/uploads/2020/04/Exhausted_sports_woman-732x549-thumbnail-732x549.jpg?w=756&h=567"
+      },
+      {
+        "id": "2",
+        "name": "Pressured Breath Releasing",
+        "imgUrl": "https://www.wikihow.com/images/thumb/e/e4/Hold-Your-Breath-for-Long-Periods-of-Time-Step-1-Version-3.jpg/v4-460px-Hold-Your-Breath-for-Long-Periods-of-Time-Step-1-Version-3.jpg.webp"
+      }
+    ]
+  },
   "work": [
     {
       "id": "3",
