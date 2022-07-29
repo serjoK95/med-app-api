@@ -63,34 +63,38 @@
       }
     ]
   },
-  "work": [
-    {
-      "id": "3",
-      "name": "Concentration Workout"
-    },
-    {
-      "id": "4",
-      "name": "Stress Relieve"
-    },
-    {
-      "id": "5",
-      "name": "Physical Workout"
-    }
-  ],
-  "sleep": [
-    {
-      "id": "6",
-      "name": "Relaxing Landscape Music"
-    }, 
-    {
-      "id": "7",
-      "name": "Physical Workout"
-    },
-    {
-      "id": "8",
-      "name": "Delta Wave Vibrations"
-    }
-  ],
+  "workOption": {
+    "work": [
+      {
+        "id": "3",
+        "name": "Concentration Workout"
+      },
+      {
+        "id": "4",
+        "name": "Stress Relieve"
+      },
+      {
+        "id": "5",
+        "name": "Physical Workout"
+      }
+    ]
+  },
+  "sleepOption": {
+    "sleep": [
+      {
+        "id": "6",
+        "name": "Relaxing Landscape Music"
+      }, 
+      {
+        "id": "7",
+        "name": "Physical Workout"
+      },
+      {
+        "id": "8",
+        "name": "Delta Wave Vibrations"
+      }
+    ]
+  },
   "thematicsSection": {
     "thematics": [
       {
