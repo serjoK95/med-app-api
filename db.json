@@ -44,59 +44,57 @@
       }
     ]
   },
-  "phaseDetailsSection": {
-    "phaseDetail": [
-      {
-        "breathing": [
-          {
-            "id": "0",
-            "name": "Slow Tempo Nose Inhaling"
-          },
-          {
-            "id": "1",
-            "name": "Breath Holding"
-          },
-          {
-            "id": "2",
-            "name": "Pressured Breath Releasing"
-          }
-        ],
-        "id": 1
-      },
-      {
-        "work": [
-          {
-            "id": "3",
-            "name": "Concentration Workout"
-          },
-          {
-            "id": "4",
-            "name": "Stress Relieve"
-          },
-          {
-            "id": "5",
-            "name": "Physical Workout"
-          }
-        ]
-      },
-      {
-        "sleep": [
-          {
-            "id": "6",
-            "name": "Relaxing Landscape Music"
-          }, 
-          {
-            "id": "7",
-            "name": "Physical Workout"
-          },
-          {
-            "id": "8",
-            "name": "Delta Wave Vibrations"
-          }
-        ]
-      }
-    ]
-  },
+  "phaseDetail": [
+    {
+      "breathing": [
+        {
+          "id": "0",
+          "name": "Slow Tempo Nose Inhaling"
+        },
+        {
+          "id": "1",
+          "name": "Breath Holding"
+        },
+        {
+          "id": "2",
+          "name": "Pressured Breath Releasing"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "work": [
+        {
+          "id": "3",
+          "name": "Concentration Workout"
+        },
+        {
+          "id": "4",
+          "name": "Stress Relieve"
+        },
+        {
+          "id": "5",
+          "name": "Physical Workout"
+        }
+      ]
+    },
+    {
+      "sleep": [
+        {
+          "id": "6",
+          "name": "Relaxing Landscape Music"
+        }, 
+        {
+          "id": "7",
+          "name": "Physical Workout"
+        },
+        {
+          "id": "8",
+          "name": "Delta Wave Vibrations"
+        }
+      ]
+    }
+  ],
   "thematicsSection": {
     "thematics": [
       {
