@@ -45,7 +45,7 @@
     ]
   },
   "breathingOption": {
-    "breathing": [
+    "options": [
       {
         "id": "0",
         "name": "Slow Tempo Nose Inhaling",
@@ -64,7 +64,7 @@
     ]
   },
   "workOption": {
-    "work": [
+    "options": [
       {
         "id": "3",
         "name": "Concentration Workout"
@@ -80,7 +80,7 @@
     ]
   },
   "sleepOption": {
-    "sleep": [
+    "options": [
       {
         "id": "6",
         "name": "Relaxing Landscape Music"
