@@ -149,5 +149,25 @@
         "imageUrl": "https://media.istockphoto.com/vectors/woman-meditating-in-nature-and-leaves-concept-illustration-for-yoga-vector-id1139912908?k=20&m=1139912908&s=612x612&w=0&h=ljrtdv9NxmtUBrQ_lDzQGDmSQSnTlOMg6J75WWpDS3s="
       }
     ]
+  },
+  "thematicMusicOption": {
+    "options": [
+      {
+        "id": "1",
+        "name": "Relax Music",
+        "imgUrl": "https://i.scdn.co/image/ab67616d0000b2730dfbc9b1b61097ebe0daf236",
+        "description": "Pick from a playlist of relaxing music options."
+      }
+    ]
+  },
+  "thematicWorkOption": {
+    "options": [
+      {
+        "id": "1",
+        "name": "Rest Break",
+        "imgUrl": "https://www.jobillico.com/blog/wp-content/uploads/2020/04/Work-Breaks2.jpg",
+        "description": "Take a short break from your work with a workout/ stretching session"
+      }
+    ]
   }
 }
