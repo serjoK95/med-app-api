@@ -153,9 +153,45 @@
   "thematicMusicOption": {
     "options": [
       {
-        "id": "1",
+        "id": "01-01",
         "name": "Relax Music",
         "imgUrl": "https://i.scdn.co/image/ab67616d0000b2730dfbc9b1b61097ebe0daf236",
+        "description": "Pick from a playlist of relaxing music options."
+      },
+      {
+        "id": "01-02",
+        "name": "Music for Reading",
+        "imgUrl": "https://i.scdn.co/image/ab67616d0000b2730dfbc9b1b61097ebe0daf236",
+        "description": "Pick from a playlist of relaxing music options."
+      },
+      {
+        "id": "01-03",
+        "name": "Ease Anxiety",
+        "imgUrl": "https://images.squarespace-cdn.com/content/v1/55832ca1e4b047816d3d9c8b/1533239763310-RZW8MXMH24SL4YYKJLN5/Coping-With-Anxiety-and-Depression-722x406_blue.jpg",
+        "description": "Pick from a playlist of relaxing music options."
+      },
+      {
+        "id": "01-04",
+        "name": "Vibrant Wake-Up Music",
+        "imgUrl": "https://see.news/wp-content/uploads/2021/04/wakeup-favorite-music.jpg",
+        "description": "Pick from a playlist of relaxing music options."
+      },
+      {
+        "id": "01-05",
+        "name": "Ambient & Atmosphering",
+        "imgUrl": "https://i.ytimg.com/vi/LJyiTDAWzDA/maxresdefault.jpg",
+        "description": "Pick from a playlist of relaxing music options."
+      },
+      {
+        "id": "01-06",
+        "name": "Classic & Strings",
+        "imgUrl": "https://miro.medium.com/max/1024/1*mixpt3aTomNCPC2-cBlmIw.jpeg",
+        "description": "Pick from a playlist of relaxing music options."
+      },
+      {
+        "id": "01-07",
+        "name": "Soundscapes",
+        "imgUrl": "https://i.ytimg.com/vi/kWGFLz7L_Ik/maxresdefault.jpg",
         "description": "Pick from a playlist of relaxing music options."
       }
     ]
@@ -163,10 +199,16 @@
   "thematicWorkOption": {
     "options": [
       {
-        "id": "1",
+        "id": "02-01",
         "name": "Rest Break",
         "imgUrl": "https://www.jobillico.com/blog/wp-content/uploads/2020/04/Work-Breaks2.jpg",
         "description": "Take a short break from your work with a workout/ stretching session"
+      },
+      {
+        "id": "02-02",
+        "name": "Mindfulness & Leadership",
+        "imgUrl": "https://i1.wp.com/rakuten.today/wp-content/uploads/2020/08/GettyImages-1162723250.jpg?fit=1500%2C980&ssl=1",
+        "description": "Take a short break from your work for mindfulness & leadership."
       }
     ]
   }
