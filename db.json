@@ -1,14 +1,14 @@
 {
   "user": {
     "id": 1,
-    "name": "Serkan Koch",
-    "username": "sekoch"
+    "name": "ITRMC",
+    "username": "itrmc"
   },
   "phasesSection": {
     "phases": [
       {
         "id": 1,
-        "name": "Morning Routine - Get your day going with a dose of breathing techniques, stretching, etc.",
+        "name": "Wake Up - Get your day going with a dose of breathing techniques, stretching, etc.",
         "link": "",
         "imageUrl": "https://moderndiplomacy.eu/wp-content/uploads/2022/01/morning-routine-1280x720.jpg",
         "phasesMeta": {
@@ -20,6 +20,30 @@
       },
       {
         "id": 2,
+        "name": "Morning - Get your day going after waking up with...",
+        "link": "",
+        "imageUrl": "https://moderndiplomacy.eu/wp-content/uploads/2022/01/morning-routine-1280x720.jpg",
+        "phasesMeta": {
+          "name": "Daily Phase",
+          "phasesimageUrl": "https://img.freepik.com/free-vector/organic-flat-man-meditating_23-2148919209.jpg?w=2000",
+          "usersSubscribed": 734
+        },
+        "numberOfViews": 6435
+      },
+      {
+        "id": 3,
+        "name": "Lunch Time - ...",
+        "link": "",
+        "imageUrl": "https://moderndiplomacy.eu/wp-content/uploads/2022/01/morning-routine-1280x720.jpg",
+        "phasesMeta": {
+          "name": "Daily Phase",
+          "phasesimageUrl": "https://img.freepik.com/free-vector/organic-flat-man-meditating_23-2148919209.jpg?w=2000",
+          "usersSubscribed": 734
+        },
+        "numberOfViews": 6435
+      },
+      {
+        "id": 4,
         "name": "Work",
         "link": "",
         "imageUrl": "https://images.indianexpress.com/2020/07/survey-work-from-home_759_pixabay.jpg",
@@ -31,7 +55,31 @@
         "numberOfViews": 5432
       },
       {
-        "id": 3,
+        "id": 5,
+        "name": "Night Time - ...",
+        "link": "",
+        "imageUrl": "https://moderndiplomacy.eu/wp-content/uploads/2022/01/morning-routine-1280x720.jpg",
+        "phasesMeta": {
+          "name": "Daily Phase",
+          "phasesimageUrl": "https://img.freepik.com/free-vector/organic-flat-man-meditating_23-2148919209.jpg?w=2000",
+          "usersSubscribed": 734
+        },
+        "numberOfViews": 6435
+      },
+      {
+        "id": 6,
+        "name": "Before Bed - ...",
+        "link": "",
+        "imageUrl": "https://moderndiplomacy.eu/wp-content/uploads/2022/01/morning-routine-1280x720.jpg",
+        "phasesMeta": {
+          "name": "Daily Phase",
+          "phasesimageUrl": "https://img.freepik.com/free-vector/organic-flat-man-meditating_23-2148919209.jpg?w=2000",
+          "usersSubscribed": 734
+        },
+        "numberOfViews": 6435
+      },
+      {
+        "id": 7,
         "name": "Sleep",
         "link": "",
         "imageUrl": "https://sph.umich.edu/pursuit/2020posts/2020images/Sleep101.jpg",
@@ -114,39 +162,45 @@
     "thematics": [
       {
         "id": 1,
-        "name": "Music",
+        "name": "Stress Reliefe",
         "link": "",
-        "imageUrl": "https://img.freepik.com/free-vector/banner-music-notes-colourful-white-background_1308-95190.jpg?w=2000"
+        "imageUrl": "https://static.vecteezy.com/system/resources/previews/002/637/489/non_2x/man-working-office-desk-side-view-on-white-background-free-vector.jpg"
       },
       {
         "id": 2,
-        "name": "Work",
+        "name": "Success",
         "link": "",
         "imageUrl": "https://static.vecteezy.com/system/resources/previews/002/637/489/non_2x/man-working-office-desk-side-view-on-white-background-free-vector.jpg"
       },
       {
         "id": 3,
-        "name": "Sleep",
+        "name": "Creating or Balancing Emotions",
         "link": "",
         "imageUrl": "https://media.istockphoto.com/vectors/sleepless-woman-lying-in-bed-and-looking-at-alarm-clock-vector-id1257527453?k=20&m=1257527453&s=612x612&w=0&h=WLMRJykSFhG1X25m4je5rZsS05-xmNscRSDQOTdMtuY="
       },
       {
         "id": 4,
-        "name": "Relaxation",
+        "name": "Family",
         "link": "",
         "imageUrl": "https://media.istockphoto.com/vectors/young-girl-sitting-in-comfortable-couch-and-and-flipping-through-the-vector-id1073180952?k=20&m=1073180952&s=612x612&w=0&h=2WSfDgp54x4HeVz7zPL48nrrcgU7FfeyEHPSzQQSflM="
       },
       {
         "id": 5,
-        "name": "Motivation",
+        "name": "Nature",
         "link": "",
         "imageUrl": "https://us.123rf.com/450wm/antonshaparenko/antonshaparenko1910/antonshaparenko191000883/132120450-employee-motivation-icon-set-four-elements-in-diferent-styles-from-human-resources-icons-collection-.jpg?ver=6"
       },
       {
         "id": 6,
-        "name": "Meditation",
+        "name": "Happiness",
         "link": "",
         "imageUrl": "https://media.istockphoto.com/vectors/woman-meditating-in-nature-and-leaves-concept-illustration-for-yoga-vector-id1139912908?k=20&m=1139912908&s=612x612&w=0&h=ljrtdv9NxmtUBrQ_lDzQGDmSQSnTlOMg6J75WWpDS3s="
+      },
+      {
+        "id": 1,
+        "name": "Music",
+        "link": "",
+        "imageUrl": "https://img.freepik.com/free-vector/banner-music-notes-colourful-white-background_1308-95190.jpg?w=2000"
       }
     ]
   },
