@@ -92,7 +92,7 @@
       }
     ]
   },
-  "breathingOption": {
+  "wakeUpOption": {
     "options": [
       {
         "id": "0",
@@ -112,6 +112,16 @@
         "imgUrl": "https://www.wikihow.com/images/thumb/e/e4/Hold-Your-Breath-for-Long-Periods-of-Time-Step-1-Version-3.jpg/v4-460px-Hold-Your-Breath-for-Long-Periods-of-Time-Step-1-Version-3.jpg.webp",
         "description": "The pressured breath release technique focuses on releasing the build up from holding your breath..."
       }
+    ]
+  },
+  "morningOption": {
+    "options": [
+
+    ]
+  },
+  "lunchOption": {
+    "options" : [
+
     ]
   },
   "workOption": {
@@ -134,6 +144,16 @@
         "imgUrl": "https://www.mensjournal.com/wp-content/uploads/mf/push_ups_main_0.jpg?quality=86&strip=all",
         "description": "Short physical workouts that might involve squatting, push ups, stretching, etc."
       }
+    ]
+  },
+  "nightTimeOption": {
+    "options": [
+
+    ]
+  },
+  "beforeBedOption": {
+    "options": [
+
     ]
   },
   "sleepOption": {
