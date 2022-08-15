@@ -119,25 +119,25 @@
       {
         "id": "0",
         "name": "Hydration",
-        "imgUrl": "",
+        "imgUrl": "https://www.elcaminohealth.org/sites/default/files/2020-07/hydration-1200x630.jpg",
         "description": "Get your morning dose of vital hydration..."
       },
       {
         "id": "1",
         "name": "Breakfast",
-        "imgUrl": "",
+        "imgUrl": "https://www.andianne.com/wp-content/uploads/2021/03/Healthy-toast-28.jpg",
         "description": "Start the day of with a healthy breakfast..."
       },
       {
         "id": "2",
         "name": "Wake Up Grooming",
-        "imgUrl": "",
+        "imgUrl": "https://www.youbeauty.com/wp-content/uploads/2020/06/PID-153816_Wake-Up-Your-Skin-Without-Fancy-Products-Wash-Face-Cold-Ice-Cubes-Caffeine_H-1.jpg",
         "description": "Wake-Up grooming routine..."
       },
       {
         "id": "3",
         "name": "Stretching/ Morning Workout",
-        "imgUrl": "",
+        "imgUrl": "https://imageio.forbes.com/specials-images/imageserve/1160224475/A-portrait-of-fit-mixed-race-man-with-dreadlocks-doing-exercise-at-home--stretching-/960x0.jpg?format=jpg&width=960",
         "description": "Stretching/ workout session in the morning..."
       }
     ]
@@ -147,19 +147,19 @@
       {
         "id": "0",
         "name": "TV Break",
-        "imgUrl": "",
+        "imgUrl": "https://media.npr.org/assets/img/2015/12/02/watching-tv_custom-0ec934f099b7a6dd0f9ae13f7471e5bbc53a6d08.jpg",
         "description": "Draw your thoughts away from work with TV..."
       },
       {
         "id": "1",
         "name": "Music Break",
-        "imgUrl": "",
+        "imgUrl": "https://www.humnutrition.com/blog/wp-content/uploads/2021/03/Benefits-of-listening-to-music-less-stress-The-Wellnest-by-HUM-Nutrition.jpg",
         "description": "Draw your thoughts away from work with music..."
       },
       {
         "id": "2",
         "name": "Short Interval High Intensity Workout",
-        "imgUrl": "",
+        "imgUrl": "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2019_01/2701716/190102-exercise-sweating-stock-cs-117p.jpg",
         "description": "Initiate in a short but intense workout session..."
       }
     ]
@@ -180,7 +180,7 @@
       },
       {
         "id": "2",
-        "name": "Physical Workout",
+        "name": "Low Intensity Physical Workout",
         "imgUrl": "https://www.mensjournal.com/wp-content/uploads/mf/push_ups_main_0.jpg?quality=86&strip=all",
         "description": "Short physical workouts that might involve squatting, push ups, stretching, etc."
       }
