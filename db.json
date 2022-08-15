@@ -224,7 +224,7 @@
       }
     ]
   },
-  "thematicMusicOption": {
+  "stressReliefThematic": {
     "options": [
       {
         "id": "0101",
@@ -277,7 +277,7 @@
       }
     ]
   },
-  "thematicWorkOption": {
+  "workThematic": {
     "options": [
       {
         "id": "0201",
@@ -293,6 +293,36 @@
         "description": "Take a short break from your work for mindfulness & leadership.",
         "musicUrl": ""
       }
+    ]
+  },
+  "successThematic": {
+    "options": [
+
+    ]
+  },
+  "balancingThematic": {
+    "options": [
+
+    ]
+  },
+  "familyThematic": {
+    "options": [
+
+    ]
+  },
+  "natureThematic": {
+    "options": [
+
+    ]
+  },
+  "happinessThematic": {
+    "options": [
+
+    ]
+  },
+  "musicThematic": {
+    "options": [
+      
     ]
   }
 }
