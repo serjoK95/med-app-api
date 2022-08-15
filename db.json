@@ -116,12 +116,52 @@
   },
   "morningOption": {
     "options": [
-
+      {
+        "id": "0",
+        "name": "Hydration",
+        "imgUrl": "",
+        "description": "Get your morning dose of vital hydration..."
+      },
+      {
+        "id": "1",
+        "name": "Breakfast",
+        "imgUrl": "",
+        "description": "Start the day of with a healthy breakfast..."
+      },
+      {
+        "id": "2",
+        "name": "Wake Up Grooming",
+        "imgUrl": "",
+        "description": "Wake-Up grooming routine..."
+      },
+      {
+        "id": "3",
+        "name": "Stretching/ Morning Workout",
+        "imgUrl": "",
+        "description": "Stretching/ workout session in the morning..."
+      }
     ]
   },
   "lunchOption": {
     "options" : [
-
+      {
+        "id": "0",
+        "name": "TV Break",
+        "imgUrl": "",
+        "description": "Draw your thoughts away from work with TV..."
+      },
+      {
+        "id": "1",
+        "name": "Music Break",
+        "imgUrl": "",
+        "description": "Draw your thoughts away from work with music..."
+      },
+      {
+        "id": "2",
+        "name": "Short Interval High Intensity Workout",
+        "imgUrl": "",
+        "description": "Initiate in a short but intense workout session..."
+      }
     ]
   },
   "workOption": {
@@ -148,12 +188,46 @@
   },
   "nightTimeOption": {
     "options": [
-
+      {
+        "id": "0",
+        "name": "Night Time Workout",
+        "imgUrl": "https://www.superfeet.com/media/amasty/blog/7_Nighttime_Workout_Tips_927x500.png",
+        "description": "Jogging/ workout session at night time..."
+      },
+      {
+        "id": "1",
+        "name": "Books/ Reading",
+        "imgUrl": "https://online.merrimack.edu/wp-content/uploads/2019/04/MCMED_5-Reasons-REading-is-So-Important-to-Student-Success.jpg",
+        "description": "Take some dedicated time to read your favorite books..."
+      },
+      {
+        "id": "2",
+        "name": "Journal Writing",
+        "imgUrl": "https://cdn.lifehack.org/wp-content/uploads/2019/12/writing-journal1-1024x768.jpeg",
+        "description": "Take some dedicated time to write down your day as part of journal keeping..."
+      }
     ]
   },
   "beforeBedOption": {
     "options": [
-
+      {
+        "id": "0",
+        "name": "Rhythmic Breathing Session",
+        "imgUrl": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/breathing-1562689585.png",
+        "description": "Short rhythmic breathing session for calmness & relaxation..."
+      },
+      {
+        "id": "1",
+        "name": "Audio Books",
+        "imgUrl": "https://cairowestmag.com/wp-content/uploads/2022/02/audiobooks.jpg",
+        "description": "Listen to audio books..."
+      },
+      {
+        "id": "2",
+        "name": "Meditation & Prayer",
+        "imgUrl": "https://i.swncdn.com/media/800w/via/18050-gettyimages-1194042218.jpg",
+        "description": "Initiate in a meditation or prayer session by your likings..."
+      }
     ]
   },
   "sleepOption": {
