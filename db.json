@@ -227,49 +227,49 @@
   "stressReliefThematic": {
     "options": [
       {
-        "id": "1",
+        "id": "0",
         "name": "Relax Music",
         "imgUrl": "https://i.scdn.co/image/ab67616d0000b2730dfbc9b1b61097ebe0daf236",
         "description": "Pick from a playlist of relaxing music options.",
         "musicUrl": "https://commondatastorage.googleapis.com/codeskulptor-demos/DDR_assets/Sevish_-__nbsp_.mp3"
       },
       {
-        "id": "2",
+        "id": "1",
         "name": "Music for Reading",
         "imgUrl": "https://i.scdn.co/image/ab67616d0000b2730dfbc9b1b61097ebe0daf236",
         "description": "Pick from a playlist of relaxing music options.",
         "musicUrl": "https://codeskulptor-demos.commondatastorage.googleapis.com/descent/background%20music.mp3"
       },
       {
-        "id": "3",
+        "id": "2",
         "name": "Ease Anxiety",
         "imgUrl": "https://images.squarespace-cdn.com/content/v1/55832ca1e4b047816d3d9c8b/1533239763310-RZW8MXMH24SL4YYKJLN5/Coping-With-Anxiety-and-Depression-722x406_blue.jpg",
         "description": "Pick from a playlist of relaxing music options.",
         "musicUrl": ""
       },
       {
-        "id": "4",
+        "id": "3",
         "name": "Vibrant Wake-Up Music",
         "imgUrl": "https://see.news/wp-content/uploads/2021/04/wakeup-favorite-music.jpg",
         "description": "Pick from a playlist of relaxing music options.",
         "musicUrl": ""
       },
       {
-        "id": "5",
+        "id": "4",
         "name": "Ambient & Atmosphering",
         "imgUrl": "https://i.ytimg.com/vi/LJyiTDAWzDA/maxresdefault.jpg",
         "description": "Pick from a playlist of relaxing music options.",
         "musicUrl": ""
       },
       {
-        "id": "6",
+        "id": "5",
         "name": "Classic & Strings",
         "imgUrl": "https://miro.medium.com/max/1024/1*mixpt3aTomNCPC2-cBlmIw.jpeg",
         "description": "Pick from a playlist of relaxing music options.",
         "musicUrl": ""
       },
       {
-        "id": "7",
+        "id": "6",
         "name": "Soundscapes",
         "imgUrl": "https://i.ytimg.com/vi/kWGFLz7L_Ik/maxresdefault.jpg",
         "description": "Pick from a playlist of relaxing music options.",
